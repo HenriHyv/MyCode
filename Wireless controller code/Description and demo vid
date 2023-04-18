@@ -1,0 +1,8 @@
+My first ever school project in Computer Science. I made the python code to receive and read wireless Arduino Uno controller's data.
+Wireless controller data is send with Transmitted Arduino uno code (Transmitter_7Byte_final.ino file). It reads joystick and pushbutton inputs and sends either 1, 0 or 2
+Data is received with Arduino that is connected in the pc that runs Python. And the Python code reads the infomation all the time from the arduino.
+In this case it sends either 1, 0 or 2 depending on what is pressed on controller. For pushbuttons when it's not pressed it sends 0 all the time and when one of them is
+pressed it sends 1 and does the python command for that pushbutton to do something like make a keyboard input "k".
+
+Here is youtube link for the demo of the wireless controller in game enviroment.
+https://www.youtube.com/watch?v=SO1t5YhL9eY
