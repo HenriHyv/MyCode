@@ -26,7 +26,7 @@ Python
 Henri Hyvärinen - HenriHyv\
 Santeri Hyry - Peasami\
 Laura Lukinmaa\
-Severi S\
+Severi S
 
 
 
