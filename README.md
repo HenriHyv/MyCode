@@ -12,9 +12,9 @@ My part in the project was to make joystick and button inputs. My group implemen
 
 
 
-##Softwares
-Arduino IDE\
-Python\
+## Softwares
+Arduino IDE (including radiohead libraries)\
+Python
 
 
 
