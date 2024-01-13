@@ -3,9 +3,8 @@
 ## Project
 This was my first project in Software engineering. Our job was to create some kind of physical object with arduino microcontroller. \
 We made Wireless controller using two Arduino microcontrollers. One microcontroller to send data and other one to receive it for the computer.\
-On receiving end we had python script running that reads incoming Arduino data and does given Keyboard inputs on python.\
+On receiving end we had python script running that reads incoming Arduino data and does given Keyboard inputs on python.
 
-in the end of this readme there is link for the video showing how it works in game environment.
 
 
 
