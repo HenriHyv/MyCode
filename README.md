@@ -1,4 +1,4 @@
-#Wireless gaming controller
+# Wireless gaming controller
 
 ## Project
 This was my first project in Software engineering. Our job was to create some kind of physical object with arduino microcontroller. \
